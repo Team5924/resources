@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+  <title>team 5924 | overview</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous"/>
+
+  <link rel="stylesheet" href="../../mdstyle.css">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<nav class="navbar navbar-inverse sticky-top bg-inverse">
+  <a class="navbar-brand" href="..">
+    <img src="../../logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
+    team 5924
+  </a>
+</nav>
+
+<div>
+
+<h1>pneumatics</h1>
+<p>"the branch of physics or technology concerned with the mechanical properties of gases"</p>
+<h2>pneumatics in an FRC robot</h2>
+<p>The pneumatic system starts with a compressor. The compressor compresses air up to 120 psi. The pressure switch and pressure relief valve ensure the system doesn’t exceed 120 psi for safety reasons. The air is stored in air tanks. Gauges are used to monitor air pressure at various points in the pneumatic system. The regulator is used to regulate the air pressure to an FRC legal pressure of 60psi. A manifold is used to efficiently distribute air to the solenoids. Solenoids control the direction of airflow by allowing or blocking airflow in certain directions. Solenoids enable us to control pneumatic actuators. The PCM (pneumatic control module) allows us to control the solenoid and compressor.</p>
+<p><img src="https://i2.wp.com/roboaztechs.org/wp-content/uploads/2014/09/PneumaticsDiagram1.jpg?resize=701%2C416" alt=""></p>
+<h2>components</h2>
+<p>components you'll find in the pneumatic system. each is linked to an external resource with more info</p>
+<ul>
+<li><a href="http://www.popularmechanics.com/home/how-to/a151/how-air-compressors-work/">compressor</a></li>
+<li><a href="http://mechatronics.mech.northwestern.edu/design_ref/actuators/solenoids.html">solenoids</a></li>
+<li>storage tanks</li>
+<li>gauge</li>
+<li><a href="https://www.andymark.com/product-p/am-3219.htm">pressure sensor</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pressure_regulator">regulator</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Manifold_(fluid_mechanics">manifold</a>)</li>
+<li>fittings</li>
+<li><a href="https://en.wikipedia.org/wiki/Relief_valve">pressure relief valve</a></li>
+<li><a href="Pressure_switch">pressure switch</a></li>
+<li><a href="http://www.ctr-electronics.com/pcm.html">pcm</a></li>
+<li><a href="http://mplab.ucsd.edu/tutorials/Pneumatics.pdf">actuators</a></li>
+</ul>
+<h2>pcm</h2>
+<p>The pneumatic control module is our interface between the air and electrical system. The pcm contains several relays to direct power to the compressor and solenoids which in turn cotrol air flow. The pcm communicates with the roborio over the can bus. The pcm is powered through a special port on the pdp. The pcm can accomodate 12V or 24V solenoids (selectable via the VSOL jumper). CTRE makes the pcm.</p>
+<p><a href="http://www.ctr-electronics.com/PCM%20User&#39;s%20Guide.pdf">pcm user's guide</a></p>
+<p><img src="images/pcm.jpg" alt=""></p>
+<h2>types of fittings</h2>
+<p>there are several types of fittings for the pneumatic system.</p>
+<p>see <a href="http://img.diytrade.com/cdimg/819313/24261315/0/1324276319/Pneumatic_fittings.jpg">this image</a> this image for a comprehensive list.</p>
+<h2>suppliers</h2>
+<ul>
+<li>andymark (clippard tanks, pressure sensor)</li>
+<li>vexpro (fittings, manifold, solenoids)</li>
+<li>ctre (pcm)</li>
+<li>mcmaster (actuators)</li>
+</ul>
+<h2>external resources</h2>
+<ul>
+<li><a href="http://mechatronics.mech.northwestern.edu/design_ref/actuators/solenoids.html">pneumatics for newbies by FRC team 358</a></li>
+</ul>
+
+
+</div>
+
+<script type="text/javascript" src="../../script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+<head>
+  <title>team 5924 | choosing-actuators</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous"/>
+
+  <link rel="stylesheet" href="../../mdstyle.css">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<nav class="navbar navbar-inverse sticky-top bg-inverse">
+  <a class="navbar-brand" href="..">
+    <img src="../../logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
+    team 5924
+  </a>
+</nav>
+
+<div>
+
+<h1>choosing actuators</h1>
+<p>types of actuators</p>
+<ul>
+<li>motors</li>
+<li>pneumatic cylinder</li>
+<li>rotary pneumatic actuator</li>
+<li>linear actuator</li>
+<li>pwm servo</li>
+<li>solenoid</li>
+</ul>
+<p>We have different kinds of actuators available. Each actuator is suited for a different use case. Pneumatics are generally simpler than a motor. Usually a motor will require gearing to accomplish a task. FRC motors are high rpm low torque by default.</p>
+<h2>position control</h2>
+<p>There are a few ways to achieve position control of a mechanism. If limited positions are needed, pneumatics with hard stops is a simple way to accomplish this. For arbitrary positions, a motor is a good solutions. The motor is more complicated however because it will require a sensor and a control loop.</p>
+<h2>pneumatics vs motors</h2>
+<h3>advantages of pneumatics</h3>
+<ul>
+<li>can reduce load on battery (especially if tank charged before match)</li>
+<li>simple software control</li>
+<li>fast and powerful</li>
+<li>can’t damage by stalling</li>
+<li>can be lighter if the system is in place anyway</li>
+<li>no limit like the pdp slots for motors</li>
+</ul>
+<h3>disadvantages of pneumatics</h3>
+<ul>
+<li>limited positions (usually 2)</li>
+<li>have to maintain another system on top of the electrical part of the control system</li>
+<li>possible danger</li>
+</ul>
+<h3>advantages of a motor</h3>
+<ul>
+<li>arbitrary position control</li>
+<li>can package better</li>
+</ul>
+<h3>disadvantages of a motor</h3>
+<ul>
+<li>control loop
+takes a limited pdp slot
+increases battery load
+can stall and break</li>
+</ul>
+<h2>rules of thumb</h2>
+<ul>
+<li>An electric actuator is almost always the better choice if no pneumatic system is present as maintaining a pneumatic system for one mechanism would likely outweigh the benefits of using pneumatics.</li>
+</ul>
+
+
+</div>
+
+<script type="text/javascript" src="../../script.js"></script>
+
+</body>
+</html>

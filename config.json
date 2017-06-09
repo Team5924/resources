@@ -1,0 +1,9 @@
+{
+	"mddir": "./md/",
+	"outdir": "./site/",
+  "assetdir": "./",
+  "defaultimg": "./default.jpg",
+	"mdbasehtml": "./template/md.html",
+	"homebasehtml": "./template/home.html",
+	"cardbasehtml": "./template/card.html"
+}

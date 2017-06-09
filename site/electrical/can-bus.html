@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+  <title>team 5924 | can-bus</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous"/>
+
+  <link rel="stylesheet" href="../../mdstyle.css">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<nav class="navbar navbar-inverse sticky-top bg-inverse">
+  <a class="navbar-brand" href="..">
+    <img src="../../logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
+    team 5924
+  </a>
+</nav>
+
+<div>
+
+<h1>can bus</h1>
+<p>CAN stands for controller area network. The can bus is a multi master bus that was designed for the automotive industry.</p>
+<p>learn more about can <a href="https://en.wikipedia.org/wiki/CAN_bus">here</a></p>
+<h2>can bus in frc</h2>
+<h3>compatible control system components</h3>
+<ul>
+<li>speed controllers (e.g. talon srx)</li>
+<li>pcm</li>
+<li>pdp</li>
+<li>roborio</li>
+</ul>
+<p>We use the can bus on FRC robots to enable communication between the pcm, pdp, roborio, and speed controllers. CAN offers many benefits over PWM (pulse width modulation) in the control system. These benefits include daisy chaining and transmitting far more information.</p>
+<h3>topology</h3>
+<p>recommended topology is a single line with terminating resistors at both ends (which both the roborio and pdp have)</p>
+<p><a href="https://www.chiefdelphi.com/forums/showthread.php?t=132323">relevant chief delphi thread</a></p>
+<h3>best practices</h3>
+<ul>
+<li>use twisted pairs between nodes</li>
+</ul>
+
+
+</div>
+
+<script type="text/javascript" src="../../script.js"></script>
+
+</body>
+</html>

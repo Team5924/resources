@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head>
+  <title>team 5924 | 3d-printing</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous"/>
+
+  <link rel="stylesheet" href="../../mdstyle.css">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<nav class="navbar navbar-inverse sticky-top bg-inverse">
+  <a class="navbar-brand" href="..">
+    <img src="../../logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
+    team 5924
+  </a>
+</nav>
+
+<div>
+
+<h1>3d printing</h1>
+<p>our main 3D printer is an Ultimaker 2+</p>
+<h2>materials</h2>
+<p>We mainly use PLA and PETG. PLA is easy to print but not as resilient as PETG. PETG can be more difficult to print because it likes to stick aggressively to the bed and pull chunks out of the glass. It also has a narrower window for ideal settings than PLA.</p>
+<p>see Thomas Sanladerer's <a href="https://www.youtube.com/playlist?list=PLDJMid0lOOYl8TZJV9xHznKFq5yA5ZTi2">filaween series</a> for in depth experimental comparison of filaments</p>
+<h3>poly lactic acid (PLA)</h3>
+<p>pla is good for parts where strength and temperature resistance aren't a concern.</p>
+<h3>polyethylene terephthalate glycol-modified (PETG)</h3>
+<p>petg is a good go-to for robot parts. it has a glass transition temperature compared to pla.</p>
+<h2>slicer</h2>
+<p>Cura is the slicer we use. it can be <a href="https://ultimaker.com/en/products/cura-software">downloaded from Ultimaker’s website</a>. the <a href="https://github.com/Ultimaker/Cura">source</a> is availble on Ultimaker’s github. the slicer's job is to turn our model into instructions the printer can understand and execute in a format called gcode.</p>
+<h2>nozzles</h2>
+<h3>orifice size</h3>
+<p>Different nozzle orifices are used for different purposes. For finer prints, use a smaller nozzle. Generally we use a 0.8mm nozzle for faster print times. Thicker layers will be stronger than thinner layers which is another advantage of using a larger nozzle. A good rule of thumb for max layer height with a given nozzle is 80% of the nozzle’s orifice. For example, a 0.8mm nozzle would have a max layer height of 0.64mm.</p>
+<h3>material</h3>
+<p>nozzles come in different materials. brass is the default for its low cost, good thermal conductivity, and durability for the usual materials. hardened nozzles should be used when printing particularly abrasize filaments, such as carbon fiber. the abrasive filament can wear away a regular brass nozzle easily and increase the effective orifice of the nozzle affecting your prints. hardened nozzles are more resistant to the abrasion and thus last longer.</p>
+<h2>getting started</h2>
+<ul>
+<li>get a mesh file, probably from your cad software (stl is common)</li>
+<li>onshape export instructions</li>
+<li>import the file into cura</li>
+<li>select the appropriate settings</li>
+<li>put sliced gcode onto sd card with a memorable and descriptive name</li>
+<li>put sd card in ultimaker and print</li>
+</ul>
+<h2>troubleshooting</h2>
+<h3>print won't stick to the bed</h3>
+<p>things to check</p>
+<ul>
+<li>z offset is set correctly. the nozzle may be starting too close or too far away from the bed</li>
+<li>if the bed isn't level, some parts of the first layer may not adhere as well as others causing the part to lift</li>
+<li>bed should be cleaned with alcohol or acetone</li>
+<li>bed may need to be coated with gluestick or another solution for certain materials</li>
+</ul>
+<h3>filament isn't coming out</h3>
+<p>things to check</p>
+<ul>
+<li>there is material on the spool and it isn't tangled</li>
+<li>try the <a href="https://ultimaker.com/en/resources/149-atomic-method">atomic method</a></li>
+<li>extruder tension</li>
+<li>extruder hobbed gear </li>
+</ul>
+<h2>printers in the lab</h2>
+<h3>Ultimaker</h3>
+<h4>maintenance</h4>
+<p>The Ultimaker requires occasional maintenance. Here are some things to check every once in awhile:</p>
+<ul>
+<li>proper belt tension</li>
+<li>linear rods are seated properly in housing</li>
+<li>motion system is properly lubricated</li>
+<li>bed is clean &amp; level</li>
+<li>nozzle is clean</li>
+</ul>
+<h3>tommy</h3>
+<p>tommy is a makerbot thing-o-matic retrofitted with new parts</p>
+<h2>external resources</h2>
+<h3><a href="https://www.youtube.com/watch?v=pRX_uvG9Z-w&amp;list=PLDJMid0lOOYnRCAdbFfzECor3EbqF8euw">Thomas Sanladerer's Tom's Guides playlist</a></h3>
+
+
+</div>
+
+<script type="text/javascript" src="../../script.js"></script>
+
+</body>
+</html>

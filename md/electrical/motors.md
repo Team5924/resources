@@ -31,7 +31,7 @@ The most popular motors in FRC are the cim, mini cim, bag, and 775pro. These mot
 <table> 
   <thead> 
     <tr>
-    
+      <th>      </th>
       <th> 775pro </th>
       <th> cim </th>
     </tr>

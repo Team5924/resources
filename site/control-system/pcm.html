@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+  <title>team 5924 | pcm</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous"/>
+
+  <link rel="stylesheet" href="../../mdstyle.css">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<nav class="navbar navbar-inverse sticky-top bg-inverse">
+  <a class="navbar-brand" href="..">
+    <img src="../../logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
+    team 5924
+  </a>
+</nav>
+
+<div>
+
+<h1>pneumatic control module</h1>
+<p>the pneumatic control module (pcm) is the bridge between the control system and the pneumatic system</p>
+<h2>input</h2>
+<h3>input power</h3>
+<p>the pcm gets power from the pdp</p>
+<h3>pressure switch</h3>
+<p>the pressure switch plugs into the pcm and tells the pcm when to cut power to the compressor</p>
+<h2>outputs</h2>
+<h3>compressor</h3>
+<p>the pcm has a relay to control the air compressor. this allows the compressor to be cut from power using the roborio</p>
+<h3>solenoid</h3>
+<p>the cm has 8 solenoid outputs labeled from 0-7. these allow for control</p>
+<h4>12/24V jumper</h4>
+<p>use the 12/24V VSOL jumper to select the voltage that the solenoids use</p>
+<h2>can</h2>
+<p>the pcm uses can to communicate with the control system. the roborio tells the pcm whether to power the pcm or not and which solenoids</p>
+
+
+</div>
+
+<script type="text/javascript" src="../../script.js"></script>
+
+</body>
+</html>

@@ -1,6 +1,8 @@
-# control system
+# control system overview
  
 ## standard components
+see each component's page for further info
+
 * battery
 * breaker
 * power distribution panel (pdp)

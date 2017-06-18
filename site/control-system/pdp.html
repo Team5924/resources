@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+  <title>team 5924 | pdp</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous"/>
+
+  <link rel="stylesheet" href="../../mdstyle.css">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<nav class="navbar navbar-inverse sticky-top bg-inverse">
+  <a class="navbar-brand" href="..">
+    <img src="../../logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
+    team 5924
+  </a>
+</nav>
+
+<div>
+
+<h1>power distribution panel</h1>
+<h2>input</h2>
+<p>the pdp gets a positive wire from the main breaker and a ground straight from the battery connector</p>
+<h2>output</h2>
+<p>the pdp has 16 open slots and 3 ports dedicated to the roborio, pcm, and vrm.</p>
+<h3>8 40A slots</h3>
+<p>these slots must use 40A breakers. only slots that are used need breakers.</p>
+<h3>8 30A/20A slots</h3>
+<p>these slots can use 30A or 20A breakers. only slots that are used need breakers.</p>
+<h3>3 bottom ports</h3>
+<p>the three bottom ports are protected by a 10A and 20A fuses. the roborio, vrm, and pcm occupy these ports.</p>
+<h2>interfaces</h2>
+<h3>can</h3>
+<p>the pdp talks to the rest of the control system over the can bus. the pdp also has a terminating resistor that is essential for the can bus. the pdp terminating resistor can be switched on or off with the jumper near the can weidmuller ports.</p>
+<h2>links</h2>
+<h3><a href="http://www.ctr-electronics.com/PDP%20User&#39;s%20Guide.pdf">pdp manual</a></h3>
+<h3><a href="http://www.ctr-electronics.com/downloads/cad/PDP_CAD.zip">pdp cad</a></h3>
+
+
+</div>
+
+<script type="text/javascript" src="../../script.js"></script>
+
+</body>
+</html>

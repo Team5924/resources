@@ -43,7 +43,14 @@ the mxp port can be used to connect extension boards such as the [spartan board]
 
 the roborio can communicate with the pdp, can speed controllers (such as the talon srx), pcm, and other control system components over the can bus
 
+## roborio imaging tool
+
+the imaging tool images the roborio with the latest software
+
+see [this guide](https://wpilib.screenstepslive.com/s/4485/m/13503/l/144984-imaging-your-roborio) for instructions on using the imaging tool
+
 ## links
 
 ### [roborio manual](tp://www.ni.com/pdf/manuals/374474a.pd)
 ### [NI support](http://www.ni.com/en-us/support/model.roborio.html)
+### [NI intro video](https://www.youtube.com/watch?v=8j4GSG-iNUU)

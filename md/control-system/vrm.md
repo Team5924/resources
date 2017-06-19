@@ -8,7 +8,7 @@ the vrm gets a 12V input from the pdp
 
 ## output
 
-the vrm has the following outputs: 12V 2A, 12V 500ma, 5V 2A, and 5V 500ma. the 12V 2A output must be used for the radio
+the vrm has the following outputs: 12V 2A, 12V 500ma, 5V 2A, and 5V 500ma. the 12V 2A output must be used for the radio. the 2A rating is peak output, so target for 1.5A or less sustained current draw
 
 ## links
 

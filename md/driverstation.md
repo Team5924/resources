@@ -10,6 +10,6 @@ The driver station can also refer to the collective parts used to run a robot. M
 
 The driver station can utilize a dashboard. A few different dashboards are provided. SmartDashboard is fairly basic but functional. The Labview dashboard is highly customizable and can be used without using labview for robot programming. Dashboards are useful for debugging and visualizing information. Custom dashboards can be made to communicate with the robot using NetworkTables. 
 
-## QDrvierStation
+## QDriverStation
  
 QDriverStation is an unofficial driver station developed by an frc mentor that works on windows/mac/linux. It works for the most part. [Learn more here](https://frc-utilities.github.io/) or [view the source here](https://github.com/FRC-Utilities/QDriverStation)

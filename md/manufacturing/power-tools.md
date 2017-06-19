@@ -20,6 +20,6 @@ hand drills offer an advantage in portability and flexibility as opopposed to th
 
 the arbor press is useful for pressing things into other things. common uses for the arbor press include pressing bearings into parts and pressing pinions onto motors.
 
-## belt & dic sander
+## belt & disc sander
 
 the belt and disc sander is used for breaking edges, shaping material, and providing a nice finish.

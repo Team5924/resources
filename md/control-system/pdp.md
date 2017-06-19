@@ -31,3 +31,4 @@ the pdp talks to the rest of the control system over the can bus. the pdp also h
 
 ### [pdp manual](http://www.ctr-electronics.com/PDP%20User's%20Guide.pdf)
 ### [pdp cad](http://www.ctr-electronics.com/downloads/cad/PDP_CAD.zip)
+### [product page](http://www.ctr-electronics.com/pdp.html)

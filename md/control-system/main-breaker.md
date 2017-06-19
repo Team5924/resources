@@ -13,3 +13,7 @@ pushing the black tab in connects the battery to the pdp and turns the robot on
 ensure that the breaker is mounted securely
 
 also ensure that the red button can't be accidentally pressed by another robot or a moving part in the robot
+
+## links
+
+### [product page](https://www.andymark.com/120-amp-robot-main-circuit-breaker-p/am-0282.htm)

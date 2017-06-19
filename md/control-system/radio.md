@@ -6,6 +6,10 @@ the radio is used to communicate with the driver station. the current radio is t
 
 the radio takes a 12V power input from the 12V 2A port on the vrm
 
+passive poe can be used. see this [picture](https://www.chiefdelphi.com/forums/showthread.php?t=154848) for info
+
+for extra safety, the barrel connector and passive poe can be used as a form of redundancy
+
 ## ethernet ports
 
 the radio has two ethernet ports. a switch can be used to get more ports, but the roborio must be directly connected to the radio

@@ -32,4 +32,4 @@ the frc batteries use the anderson sb50 connector with at least 6awg wire (max s
 * use a battery beak to check batteries
 * keep wires from battery terminals to connector short as possible
 * use lock nuts to secure lugs to the battery terminals to prevent them from loosening which can increase resistance
-* cover exposed terminals. tape and heatshrink are convenient 
+* cover exposed terminals. tape and heatshrink work well 

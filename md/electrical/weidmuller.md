@@ -13,6 +13,8 @@ steps for using weidmullers without ferrules
 * release connector
 * tug test - if it comes loose, redo
 
+the weidmuller connectors used in the frc control system have a max of 16awg
+
 ### good practices
 
 * make sure there is no exposed wire. exposed wire can lead to strain or shorts

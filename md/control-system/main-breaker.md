@@ -4,15 +4,14 @@ the main breaker is a safety mechanism and the power switch for the robot. it's 
 
 ## operation
 
-pushing the red button disconnects the connection from the battery to the pdp and turns the robot off
+pushing the red button opens the circuit from the battery to the pdp and turns the robot off
 
-pushing the black tab in connects the battery to the pdp and turns the robot on
+pushing the black tab inward closes the circuit from the battery to the pdp and turns the robot on
 
 ## precautions
 
-ensure that the breaker is mounted securely
-
-also ensure that the red button can't be accidentally pressed by another robot or a moving part in the robot
+* ensure that the breaker is mounted securely and accessibly
+* ensure that the red button can't be [accidentally](https://youtu.be/ki76LH4gWYs?t=44) pressed by another robot or a moving part in the robot
 
 ## links
 

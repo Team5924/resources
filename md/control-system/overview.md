@@ -21,4 +21,4 @@ Power distribution starts with the battery. We use 12V batteries. From the batte
 
 ## external resources
 
-* [screenstepslive](https://wpilib.screenstepslive.com/s/4485/m/24166)
+### [screenstepslive](https://wpilib.screenstepslive.com/s/4485/m/24166)

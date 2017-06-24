@@ -31,4 +31,5 @@ thunderhex can be made with regular hex stock and a lathe
 if thunderhex isn't fitting smoothly into thunderhex bearings, the round edges can be sanded down until bearing shaft interface is smooth
 
 ## external resources
-* [vexpro examples](https://www.vexrobotics.com/vexpro/examples-guides)
+
+### [vexpro examples](https://www.vexrobotics.com/vexpro/examples-guides)

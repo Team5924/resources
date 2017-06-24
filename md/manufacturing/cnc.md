@@ -32,5 +32,6 @@ cam stands for computer aided machining. it's what turns our designs into instru
 * run gcode
 
 ## external resources
-* [smoothieware wiki](http://smoothieware.org/cnc-mill-guide)
-* [CNC Routers for FRC Robotics](https://www.chiefdelphi.com/forums/showthread.php?t=158505)
+
+### [smoothieware wiki](http://smoothieware.org/cnc-mill-guide)
+### [CNC Routers for FRC Robotics](https://www.chiefdelphi.com/forums/showthread.php?t=158505)

@@ -34,4 +34,5 @@ sensors allow a robot to understand its environment. strategic sensor use can im
 * uses sound to measure distance
 
 ## external resources
-* [screenstepslive](http://wpilib.screenstepslive.com/s/4485/m/13809/l/599710-wpilib-sensor-overview)
+
+### [screenstepslive](http://wpilib.screenstepslive.com/s/4485/m/13809/l/599710-wpilib-sensor-overview)

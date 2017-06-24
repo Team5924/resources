@@ -12,6 +12,8 @@ the roborio takes a 12v input from its designated port on the pdp
 
 the roborio has 10 pwm outputs
 
+a y cable can be used to more efficiently use pwm ports. for example, a two motor gearbox gets the same output for both motors, so it only needs to use one pwm port
+
 ### dio
 
 the dio (digital input and output)

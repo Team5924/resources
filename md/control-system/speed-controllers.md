@@ -26,3 +26,9 @@ for most applications, the speed controller you use won't make a big difference 
 * made by rev robotics
 * limit switch input
 * pwm interface
+
+## modes
+
+### brake mode
+
+### coast mode

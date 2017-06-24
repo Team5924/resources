@@ -1,12 +1,12 @@
 # power distribution panel
 
+the power distribution panel is the heart of the control system. it distributes the power from the battery to the rest of the robot
+
 ## input
 
-the pdp gets a positive wire from the main breaker and a ground straight from the battery connector
+the pdp gets a positive connection from the main breaker and a ground straight from the battery connector
 
-pdp input wires should be kept as short as possible in order to prevent bottlenecking the power of the robot
-
-6awg minimum
+pdp input wires should be kept as short as possible in order to prevent bottlenecking the power of the robot. minimum wire gauge is 6awg
 
 ## output
 

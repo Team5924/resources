@@ -10,6 +10,8 @@ the versaframe product line contains parts for numerous different kinds of mecha
 
 the predrilled hole pattern and accompanying products remove the need for precision bearing bores and other precision machining so that robust and competitive mechanisms can be made with a simple drill and hacksaw.
 
+![](http://www.wcproducts.net/media/wysiwyg/mcc2016/Intake_render.46.png)
+
 ![](https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/v/e/versachassis.jpg)
 
 ### [versaplanetary](https://www.vexrobotics.com/versaplanetary.html)

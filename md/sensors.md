@@ -2,6 +2,8 @@
 
 sensors allow a robot to understand its environment. strategic sensor use can improve robot performance
 
+![](http://pop.h-cdn.co/assets/15/46/1447273405-lidartop.gif)
+
 ## types of sensors
 
 ### rotary encoder
@@ -32,6 +34,8 @@ sensors allow a robot to understand its environment. strategic sensor use can im
 ### ultrasonic
 
 * uses sound to measure distance
+
+![](https://c1.staticflickr.com/9/8790/28829410992_b96f72001f.jpg)
 
 ## external resources
 

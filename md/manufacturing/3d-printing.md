@@ -1,7 +1,7 @@
 # 3d printing
  
 our main 3D printer is an Ultimaker 2+
- 
+
 ## materials
 We mainly use PLA and PETG. PLA is easy to print but not as resilient as PETG. PETG can be more difficult to print because it likes to stick aggressively to the bed and pull chunks out of the glass. It also has a narrower window for ideal settings than PLA. 
 

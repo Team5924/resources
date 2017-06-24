@@ -8,7 +8,6 @@ types of actuators
 * linear actuator
 * pwm servo
 * solenoid
- 
 
 We have different kinds of actuators available. Each actuator is suited for a different use case. Pneumatics are generally simpler than a motor. Usually a motor will require gearing to accomplish a task. FRC motors are high rpm low torque by default. 
  

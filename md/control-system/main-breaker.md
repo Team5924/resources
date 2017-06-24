@@ -2,6 +2,8 @@
 
 the main breaker is a safety mechanism and the power switch for the robot. it's a 120A breaker
 
+![](https://cdn3.volusion.com/vyfsn.knvgw/v/vspfiles/photos/am-0282-2.jpg?1442240393)
+
 ## operation
 
 pushing the red button opens the circuit from the battery to the pdp and turns the robot off

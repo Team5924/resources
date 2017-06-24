@@ -2,6 +2,8 @@
 
 the roborio is the brain of the control system. it's made by National Instruments. it's IO includes: PWM, CAN, RS232, USB, analog input, DIO, ethernet, I2C, SPI, and MXP.
 
+![](https://s3.amazonaws.com/screensteps_live/image_assets/assets/000/289/903/original/b70ae894-e0c5-49d3-b8e2-024e76bd7c6c.png?1483549205)
+
 ## power input
 
 the roborio takes a 12v input from its designated port on the pdp

@@ -2,6 +2,8 @@
 
 the radio is used to communicate with the driver station. the current radio is the openmesh OM5P-AC
 
+![](http://www.open-mesh.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/o/m/om5p-ac_48.png)
+
 ## power input
 
 the radio takes a 12V power input from the 12V 2A port on the vrm

@@ -2,6 +2,8 @@
 
 the voltage regulator module (vrm) regulates the power from the pdp to provide constant 12V and 5V outputs
 
+![](https://cdn3.volusion.com/vyfsn.knvgw/v/vspfiles/photos/am-2857-2.jpg?1442240393)
+
 ## input
 
 the vrm gets a 12V input from the pdp

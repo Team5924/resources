@@ -2,6 +2,8 @@
 
 frc robots use 12v SLA (sealed lead acid) batteries
 
+![](https://cdn3.volusion.com/vyfsn.knvgw/v/vspfiles/photos/am-0844-2.jpg?1442240393)
+
 ## description
 
 * ~14lbs

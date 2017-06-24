@@ -2,6 +2,8 @@
 
 the power distribution panel is the heart of the control system. it distributes the power from the battery to the rest of the robot
 
+![](https://cdn3.volusion.com/vyfsn.knvgw/v/vspfiles/photos/am-2856-2.jpg?1442240393)
+
 ## input
 
 the pdp gets a positive connection from the main breaker and a ground straight from the battery connector

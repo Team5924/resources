@@ -2,6 +2,8 @@
 
 the pneumatic control module (pcm) is the bridge between the control system and the pneumatic system
 
+![](https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/1/217-4243.jpg)
+
 ## input
 
 ### input power

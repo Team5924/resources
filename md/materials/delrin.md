@@ -2,7 +2,7 @@
 
 delrin is an engineering plastic. it's easy to machine and laser wells
 
-aka pom, polyoxymethylene, acetal, polyacetal, 
+aka pom, polyoxymethylene, acetal, polyacetal
 
 ## form factors
 

@@ -16,10 +16,6 @@ the lab contains both a standup and a benchtop drill press. parts should be clam
 
 hand drills offer an advantage in portability and flexibility as opopposed to the drill press. 
 
-## arbor press
-
-the arbor press is useful for pressing things into other things. common uses for the arbor press include pressing bearings into parts and pressing pinions onto motors.
-
 ## belt & disc sander
 
 the belt and disc sander is used for breaking edges, shaping material, and providing a nice finish.

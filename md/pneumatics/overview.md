@@ -48,4 +48,4 @@ see [this image](http://img.diytrade.com/cdimg/819313/24261315/0/1324276319/Pneu
 
 ## external resources
 
-* [pneumatics for newbies by FRC team 358](http://mechatronics.mech.northwestern.edu/design_ref/actuators/solenoids.html)
+### [pneumatics for newbies by FRC team 358](http://mechatronics.mech.northwestern.edu/design_ref/actuators/solenoids.html)

@@ -9,7 +9,7 @@ the spark is a basic, low-cost speed controller designed by rev robotics
 
 minimum of 12awg wire is to be used. crimp #6 or #8 yellow ring terminals onto wire and screw onto spark.
 
-**warning:** polarity is important on the input
+**warning:** polarity is important on the input. sparks don't have reverse polarity protection
 
 ## motor output
 

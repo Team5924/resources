@@ -3,14 +3,14 @@
 ## standard components
 see each component's page for further info
 
-* battery
-* breaker
-* power distribution panel (pdp)
-* roborio
-* voltage regulator module (vrm)
-* pneumatic control module (pcm)
-* radio
-* speed controllers
+* [battery](battery.md)
+* [breaker](main-breaker.md)
+* [power distribution panel (pdp)](pdp.md)
+* [roborio](roborio.md)
+* [voltage regulator module (vrm)](vrm.md)
+* [pneumatic control module (pcm)](pcm.md)
+* [radio](radio.md)
+* [speed controllers](speed-controllers)
 * robot signal light (rsl)
 
 ## overview

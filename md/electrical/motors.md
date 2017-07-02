@@ -30,6 +30,7 @@ the 775pro has 347W of power, roughly equivalent to the power of a cim. the 775p
 * smallest in the list
  
 ## 775pro vs cim
+
 The cim and 775pro are roughly equivalent in power with the cim having 337w of power while the 775pro has 347w according to vex’s testing data. 775pro’s without gearing are about 3x faster than cims. Cims have greater thermal mass allowing them to be stalled for longer. The 775pro motor needs to be vented and monitored more carefully due to the lesser thermal mass. The 775pro is smaller and weighs significantly less than a cim.
 
 ## denso throttle motor

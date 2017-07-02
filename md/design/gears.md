@@ -12,6 +12,8 @@ spur gears can be used to create custom gearboxes or they can be used in a cots 
 
 bevel gears are useful in cases such as swerve when the motor packages better in an orientation where the driving shaft cannot be directly driven
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gear-kegelzahnrad.svg/2100px-Gear-kegelzahnrad.svg.png)
+
 ### planetary gearbox
 
 planetary gearboxes are most commonly seen in the versaplanetary gearbox. planetary gearboxes are particularly useful because they package well.

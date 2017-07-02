@@ -11,7 +11,7 @@ see each component's page for further info
 * [pneumatic control module (pcm)](pcm.md)
 * [radio](radio.md)
 * [speed controllers](speed-controllers)
-* robot signal light (rsl)
+* [robot signal light (rsl)](rsl.md)
 
 ## overview
 

@@ -26,6 +26,7 @@ the rsl port powers the robot signal light
 
 ### analog in
 
+used for analog sensor input
 
 ### ethernet port
 

@@ -24,3 +24,4 @@ recommended topology is a single line with terminating resistors at both ends (w
 ### best practices
 
 * use twisted pairs between nodes
+* daisy chain nodes

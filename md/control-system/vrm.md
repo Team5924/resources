@@ -6,11 +6,27 @@ the voltage regulator module (vrm) regulates the power from the pdp to provide c
 
 ## input
 
-the vrm gets a 12V input from the pdp
+### power input
+
+the vrm is powered through the `12Vin` port by the pdp
 
 ## output
 
-the vrm has the following outputs: 12V 2A, 12V 500ma, 5V 2A, and 5V 500ma. the 12V 2A output must be used for the radio. the 2A rating is peak output, so target for 1.5A or less sustained current draw
+### 12V
+
+the vrm has 12V 2A and 12V 500mA outputs. the 12V 2A must be used for powering the radio
+
+**note:** the 12V 2A port is 2A peak and 1.5A sustained
+
+### 5V
+
+the vrm contains 5V 2A and 5V 500mA outputs. these outputs are not required to be populated (like the 12V 2A output), but can be used for additional components, like a targeting flashlight
+
+**note:** the 5V 2A port is 2A peak and 1.5A sustained
+
+## connecting to the vrm
+
+the vrm uses weidmuller connectors for its input and outputs. see the [weidmuller page](../electrical/weidmuller.md) for more info
 
 ## links
 

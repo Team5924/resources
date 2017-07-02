@@ -26,7 +26,7 @@ because of their geometry, worm gears don't backdrive
 
 ## balancing torque and speed
 
-most FRC motors need to be slower, torquier, or both. gearing a motor down allows the high rpm low torque motors used in FRC to be used for a wide breadth of applications.
+most FRC motors need to be slower, torquier, or both. gearing a motor down allows the high rpm, low torque motors used in FRC to be used for a wide breadth of applications.
 
 ## external resources
 

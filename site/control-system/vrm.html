@@ -24,9 +24,17 @@
 <p>the voltage regulator module (vrm) regulates the power from the pdp to provide constant 12V and 5V outputs</p>
 <p><img src="https://cdn3.volusion.com/vyfsn.knvgw/v/vspfiles/photos/am-2857-2.jpg?1442240393" alt=""></p>
 <h2>input</h2>
-<p>the vrm gets a 12V input from the pdp</p>
+<h3>power input</h3>
+<p>the vrm is powered through the <code>12Vin</code> port by the pdp</p>
 <h2>output</h2>
-<p>the vrm has the following outputs: 12V 2A, 12V 500ma, 5V 2A, and 5V 500ma. the 12V 2A output must be used for the radio. the 2A rating is peak output, so target for 1.5A or less sustained current draw</p>
+<h3>12V</h3>
+<p>the vrm has 12V 2A and 12V 500mA outputs. the 12V 2A must be used for powering the radio</p>
+<p><strong>note:</strong> the 12V 2A port is 2A peak and 1.5A sustained</p>
+<h3>5V</h3>
+<p>the vrm contains 5V 2A and 5V 500mA outputs. these outputs are not required to be populated (like the 12V 2A output), but can be used for additional components, like a targeting flashlight</p>
+<p><strong>note:</strong> the 5V 2A port is 2A peak and 1.5A sustained</p>
+<h2>connecting to the vrm</h2>
+<p>the vrm uses weidmuller connectors for its input and outputs. see the <a href="../electrical/weidmuller.html">weidmuller page</a> for more info</p>
 <h2>links</h2>
 <h3><a href="http://www.ctr-electronics.com/VRM%20User&#39;s%20Guide.pdf">vrm manual</a></h3>
 <h3><a href="http://www.ctr-electronics.com/downloads/cad/VRM_CAD.zip">vrm cad</a></h3>

@@ -21,9 +21,9 @@ The driver station can utilize a dashboard. A few different dashboards are provi
 
 ### dashboard projects
 
-* [SmartDashboard](https://github.com/wpilibsuite/SmartDashboard)
-* [FRC Dashboard](https://frcdashboard.github.io/)
-* [SFX dashboard](https://github.com/wpilibsuite/sfx)
+#### [SmartDashboard](https://github.com/wpilibsuite/SmartDashboard)
+#### [FRC Dashboard](https://frcdashboard.github.io/)
+#### [SFX dashboard](https://github.com/wpilibsuite/sfx)
 
 ## QDriverStation
  

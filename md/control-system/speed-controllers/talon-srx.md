@@ -4,9 +4,11 @@ the talon srx is a speed controlled designed by vex and ctre. it's the smartest 
 
 despite the advanced functionality, the talon comes in a compact package
 
+![](https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/1/217-8080.jpg)
+
 ## can
 
-the can bus enables the smart features of the srx. 
+the can bus enables the smart features of the srx 
 
 see the can bus page for recommended topology
 

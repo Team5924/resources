@@ -7,6 +7,7 @@ learn more about can [here](https://en.wikipedia.org/wiki/CAN_bus)
 ## can bus in frc
 
 ### compatible control system components
+
 * speed controllers (e.g. talon srx)
 * pcm
 * pdp

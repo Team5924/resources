@@ -1,6 +1,7 @@
 # motors
 
 ## frc legal motors
+
 * cim
 * mini cim
 * bag

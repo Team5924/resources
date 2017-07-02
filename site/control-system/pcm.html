@@ -25,19 +25,25 @@
 <p><img src="https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/1/217-4243.jpg" alt=""></p>
 <h2>input</h2>
 <h3>input power</h3>
-<p>the pcm gets power from the pdp</p>
+<p>the pcm is powered through the <code>Vin</code> port by the pdp</p>
 <h3>pressure switch</h3>
-<p>the pressure switch plugs into the pcm and tells the pcm when to cut power to the compressor</p>
+<p>the pressure switch plugs into the pcm and tells the pcm when to cut power to the compressor. polarity doesn't matter for this input</p>
 <h2>outputs</h2>
 <h3>compressor</h3>
-<p>the pcm has a relay to control the air compressor. this allows the compressor to be cut from power using the roborio</p>
+<p>the pcm has a relay to control the air compressor. this allows the pcm to cut the compressor's power</p>
 <p>the <code>comp</code> led on the pcm displays the status of the compressor</p>
 <h3>solenoid</h3>
-<p>the cm has 8 solenoid outputs labeled from 0-7. these allow for control</p>
+<p>the pcm has 8 solenoid outputs labeled from 0-7. these allow for control</p>
 <h4>12/24V jumper</h4>
 <p>use the 12/24V VSOL jumper to select the voltage that the solenoids use</p>
 <h2>can</h2>
-<p>the pcm uses can to communicate with the control system. the roborio tells the pcm whether to power the pcm or not and which solenoids</p>
+<p>the pcm uses can to communicate with the control system. the roborio tells the compressor whether to power the pcm or not and which solenoids</p>
+<h2>second pcm</h2>
+<p>a second pcm can be used when additional solenoid outputs are needed</p>
+<h3>can</h3>
+<p>the second pcm needs a unique can id. this can id is used to address the second pcm's solenoids in software</p>
+<h3>power</h3>
+<p>the second pcm can be powered by one of the pdp's wago ports</p>
 <h2>links</h2>
 <h3><a href="http://www.ctr-electronics.com/PCM%20User&#39;s%20Guide.pdf">pcm manual</a></h3>
 <h3><a href="http://www.ctr-electronics.com/downloads/cad/PCM_CAD.zip">pcm cad</a></h3>

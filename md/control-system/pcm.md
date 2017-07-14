@@ -8,7 +8,7 @@ the pneumatic control module (pcm) is the bridge between the control system and 
 
 ### input power
 
-the pcm is powered through the `Vin` port by the pdp
+the pcm is powered through the `Vin` port by the pdp. input can be 24-16awg
 
 ### pressure switch
 

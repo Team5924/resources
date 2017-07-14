@@ -8,7 +8,7 @@ the voltage regulator module (vrm) regulates the power from the pdp to provide c
 
 ### power input
 
-the vrm is powered through the `12Vin` port by the pdp
+the vrm is powered through the `12Vin` port by the pdp. input can be 24-16awg
 
 ## output
 

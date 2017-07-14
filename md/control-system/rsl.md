@@ -4,7 +4,13 @@ the robot signal light (rsl) indicates robot state
 
 it's made by allen bradley
 
-## input
+## wiring
+
+`La` and `Lb` should be connected to each other and to `S` on the roborio
+
+`N` should be connected to ground  
+
+### input
 
 the rsl gets power and input from the `rsl` roborio header
 

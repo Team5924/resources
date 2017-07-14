@@ -2,7 +2,6 @@
 
 the spark is a basic, low-cost speed controller designed by rev robotics
 
-
 ![](https://images-na.ssl-images-amazon.com/images/I/51GXnDV605L.jpg)
 
 ## power input

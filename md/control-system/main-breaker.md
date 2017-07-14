@@ -4,6 +4,14 @@ the main breaker is a safety mechanism and the power switch for the robot. it's 
 
 ![](https://cdn3.volusion.com/vyfsn.knvgw/v/vspfiles/photos/am-0282-2.jpg?1442240393)
 
+# input
+
+minimum wire gauge of 6awg
+
+# output
+
+minimum wire gauge of 6awg
+
 ## operation
 
 pushing the red button opens the circuit from the battery to the pdp and turns the robot off
